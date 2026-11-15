@@ -1,4 +1,4 @@
-﻿# SHIFT // REALITY
+﻿Ashgrove Hotel
 
 A first-person atmospheric puzzle prototype.
 
