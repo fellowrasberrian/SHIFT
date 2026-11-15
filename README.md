@@ -8,13 +8,17 @@ A first-person atmospheric puzzle prototype.
 - Shift: Change reality
 - E: Collect anchors or use the exit
 
-## Run
-Use PowerShell:
-python -m http.server 8000
+## Play the Game
 
-Open http://localhost:8000
+Play Ashgrove Hotel directly in your browser using the link below
 
-Three.js is loaded from jsDelivr, so an internet connection is required.
+**Official Game Page**  
+https://fellowrasberrian.github.io/SHIFT/
 
-## Game jam prototype
-Built around the theme of shifting between two versions of the same environment.
+No installation required
+
+An active internet connection is required to load external game dependencies
+
+## About the Project
+
+Ashgrove Hotel is an atmospheric first person puzzle experience centered around shifting between two versions of the same environment
